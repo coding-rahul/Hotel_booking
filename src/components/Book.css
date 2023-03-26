@@ -1,0 +1,12 @@
+.booking_bgimg {
+    background-image: url("new1.jpg");
+    height: 100vh;
+}
+
+.Inc_input {
+    width: 15%;
+}
+
+.label {
+    margin-right: 1.3rem;
+}

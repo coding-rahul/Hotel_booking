@@ -1,0 +1,214 @@
+{
+  "user": [
+    {
+      "name": "Rahul singh",
+      "number": "98765432111",
+      "email": "r@gmail.com",
+      "room": 3,
+      "roomType": "Standard",
+      "address": "sasararam",
+      "Hotel": {
+        "id": 1,
+        "Hotel": "Radission Blue",
+        "description": "The rooms use a lot of wooden elements in the interior decor of the room. Windows have been provided all along the premises of the room.The curtains have some beautiful patterns.",
+        "standardprice": 5000,
+        "premiumprice": 8475,
+        "ratting": "5",
+        "discount": "30%",
+        "img": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_details_desktop/v1499246940/Hotel/Tirupati/00001827/6_Club_Room_CPMfng.jpg"
+      },
+      "id": 21
+    },
+    {
+      "name": "raam",
+      "number": "987654321",
+      "email": "r@gmail.com",
+      "room": 1,
+      "roomType": "Premium",
+      "address": ";lhyutdrsdfchvjbkjnl",
+      "Hotel": {
+        "id": 1,
+        "Hotel": "Radission Blue",
+        "description": "The rooms use a lot of wooden elements in the interior decor of the room. Windows have been provided all along the premises of the room.The curtains have some beautiful patterns.",
+        "standardprice": 5000,
+        "premiumprice": 8475,
+        "ratting": "5",
+        "discount": "30%",
+        "img": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_details_desktop/v1499246940/Hotel/Tirupati/00001827/6_Club_Room_CPMfng.jpg"
+      },
+      "id": 22
+    },
+    {
+      "name": "nilesh",
+      "number": "98765432",
+      "email": "n@gmail.com",
+      "room": 3,
+      "roomType": "Premium",
+      "address": "ml;iout6r75e6etsfxcghjkj",
+      "Hotel": {
+        "id": 3,
+        "Hotel": " The Natraj ",
+        "description": "The rooms use a lot of wooden elements in the interior decor of the room. Windows have been provided all along the premises of the room.The curtains have some beautiful patterns.",
+        "standardprice": 1900,
+        "premiumprice": 2599,
+        "room": 1,
+        "ratting": "4.5",
+        "discount": "65%",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8XmCkQQd4CJRY25Jj7VQLbSLe4s90gcPzxA&usqp=CAU"
+      },
+      "id": 25
+    },
+    {
+      "name": "abhijeet kr.",
+      "number": "1234567890",
+      "email": "abhi@gmail.com",
+      "room": 6,
+      "roomType": "Premium",
+      "address": "kljhugytdrgfcgvhbjn",
+      "Hotel": {
+        "id": 2,
+        "Hotel": "The Asok",
+        "description": "The rooms use a lot of wooden elements in the interior decor of the room. Windows have been provided all along the premises of the room.The curtains have some beautiful patterns.",
+        "standardprice": 4000,
+        "premiumprice": 7499,
+        "room": 1,
+        "ratting": "4.7",
+        "discount": "50%",
+        "img": "https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3333/x_405,y_387,w_4595,h_2584,r_0,c_crop,q_80,fl_progressive/w_400,f_auto,c_fit/hotel-bliss/Hotel_Bliss,_rooms_in_Tirupati,_Online_Booking_executive_room_6194"
+      },
+      "id": 31
+    },
+    {
+      "name": "anil singh",
+      "number": "23456789",
+      "email": "anil@gmail.com",
+      "room": 3,
+      "roomType": "Premium",
+      "address": "koiuytrsdfhjk",
+      "Hotel": {
+        "id": 1,
+        "Hotel": "Radission Blue",
+        "description": "The rooms use a lot of wooden elements in the interior decor of the room. Windows have been provided all along the premises of the room.The curtains have some beautiful patterns.",
+        "standardprice": 5000,
+        "premiumprice": 8475,
+        "ratting": "5",
+        "discount": "30%",
+        "img": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_details_desktop/v1499246940/Hotel/Tirupati/00001827/6_Club_Room_CPMfng.jpg"
+      },
+      "id": 32
+    },
+    {
+      "name": "rohit kr",
+      "number": "34567890",
+      "email": "r@gmail.com",
+      "room": 6,
+      "roomType": "Premium",
+      "address": ",lkjihuytdrsfghjk",
+      "Hotel": {
+        "id": 1,
+        "Hotel": "Radission Blue",
+        "description": "The rooms use a lot of wooden elements in the interior decor of the room. Windows have been provided all along the premises of the room.The curtains have some beautiful patterns.",
+        "standardprice": 5000,
+        "premiumprice": 8475,
+        "ratting": "5",
+        "discount": "30%",
+        "img": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_details_desktop/v1499246940/Hotel/Tirupati/00001827/6_Club_Room_CPMfng.jpg"
+      },
+      "id": 33
+    },
+    {
+      "name": "rekha singh",
+      "number": "9876543",
+      "email": "rekha@gmail.com",
+      "room": 2,
+      "roomType": "Premium",
+      "address": "l;liouytdrsdfg",
+      "Hotel": {
+        "id": 4,
+        "Hotel": " Ramada ",
+        "description": "The rooms use a lot of wooden elements in the interior decor of the room. Windows have been provided all along the premises of the room.The curtains have some beautiful patterns.",
+        "standardprice": 2000,
+        "premiumprice": 3400,
+        "ratting": "4.5",
+        "discount": "40%",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHmjlY_ypSp3jwrFYXcl7AZVWL_Wme-1Mg6Q&usqp=CAU"
+      },
+      "id": 34
+    }
+  ],
+  "Hotels": [
+    {
+      "id": 1,
+      "Hotel": "Radission Blue",
+      "description": "The rooms use a lot of wooden elements in the interior decor of the room. Windows have been provided all along the premises of the room.The curtains have some beautiful patterns.",
+      "standardprice": 5000,
+      "premiumprice": 8475,
+      "ratting": "5",
+      "discount": "30%",
+      "img": "https://imgcld.yatra.com/ytimages/image/upload/t_hotel_yatra_details_desktop/v1499246940/Hotel/Tirupati/00001827/6_Club_Room_CPMfng.jpg"
+    },
+    {
+      "id": 2,
+      "Hotel": "The Asok",
+      "description": "The rooms use a lot of wooden elements in the interior decor of the room. Windows have been provided all along the premises of the room.The curtains have some beautiful patterns.",
+      "standardprice": 4000,
+      "premiumprice": 7499,
+      "room": 1,
+      "ratting": "4.7",
+      "discount": "50%",
+      "img": "https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3333/x_405,y_387,w_4595,h_2584,r_0,c_crop,q_80,fl_progressive/w_400,f_auto,c_fit/hotel-bliss/Hotel_Bliss,_rooms_in_Tirupati,_Online_Booking_executive_room_6194"
+    },
+    {
+      "id": 3,
+      "Hotel": " The Natraj ",
+      "description": "The rooms use a lot of wooden elements in the interior decor of the room. Windows have been provided all along the premises of the room.The curtains have some beautiful patterns.",
+      "standardprice": 1900,
+      "premiumprice": 2599,
+      "room": 1,
+      "ratting": "4.5",
+      "discount": "65%",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8XmCkQQd4CJRY25Jj7VQLbSLe4s90gcPzxA&usqp=CAU"
+    },
+    {
+      "id": 4,
+      "Hotel": " Ramada ",
+      "description": "The rooms use a lot of wooden elements in the interior decor of the room. Windows have been provided all along the premises of the room.The curtains have some beautiful patterns.",
+      "standardprice": 2000,
+      "premiumprice": 3400,
+      "ratting": "4.5",
+      "discount": "40%",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHmjlY_ypSp3jwrFYXcl7AZVWL_Wme-1Mg6Q&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "Hotel": "Nevesa Inn",
+      "description": "The rooms use a lot of wooden elements in the interior decor of the room. Windows have been provided all along the premises of the room.The curtains have some beautiful patterns.",
+      "standardprice": 1600,
+      "premiumprice": 3000,
+      "ratting": "4.2",
+      "room": 1,
+      "discount": "70%",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnq7p1VMccBYrAOdhbSeEllaOBw8thJe964Q&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "Hotel": "jw marriott",
+      "description": "The rooms use a lot of wooden elements in the interior decor of the room. Windows have been provided all along the premises of the room.The curtains have some beautiful patterns.",
+      "standardprice": 1500,
+      "premiumprice": 2400,
+      "ratting": "4.9",
+      "discount": "60%",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfepCYrPB0pWp-KiVwsmjvisStgKR50ptrg&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "Hotel": " Hotel Bliss",
+      "description": "The rooms use a lot of wooden elements in the interior decor of the room. Windows have been provided all along the premises of the room.The curtains have some beautiful patterns.",
+      "standardprice": 1000,
+      "premiumprice": 1800,
+      "ratting": "4.5",
+      "discount": "50%",
+      "img": "https://res.cloudinary.com/simplotel/image/upload/w_5000,h_3333/x_405,y_387,w_4595,h_2584,r_0,c_crop,q_80,fl_progressive/w_400,f_auto,c_fit/hotel-bliss/Hotel_Bliss,_rooms_in_Tirupati,_Online_Booking_executive_room_6194"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+.home_bgimg {
+    background-image: url("card2.jpg");
+
+}
+
+.round {
+    border-radius: 10px;
+}
+
+.img {
+    height: 40vh;
+    border-radius: 10px 10px 0 0;
+}
+
+.card_price {
+    font-size: 1.7rem;
+    font-weight: 700;
+}
+
+.card_discount {
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-left: 0.2rem;
+}
